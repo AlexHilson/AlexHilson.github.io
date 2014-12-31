@@ -3,6 +3,9 @@ _gh_pages
 _site
 .ruby-version
 
+# Ignore vagrant
+.vagrant
+
 # Numerous always-ignore extensions
 *.diff
 *.err
